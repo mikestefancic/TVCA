@@ -104,6 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # General
-.DS_Store	
-.AppleDouble
-.LSOverride
+.DS_Store
