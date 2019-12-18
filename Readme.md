@@ -38,6 +38,7 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-- Mike Stefancic - Assistant Director of Community Partnerships, 
-Service-Learning Program, Boise State University
-- Chuck Spencer - GIS Coordinator, Ada County Highway District
+- Mike Stefancic      - Assistant Director of Community Partnerships, 
+                        Service-Learning Program, Boise State University
+- Chuck Spencer       - GIS Coordinator, Ada County Highway District
+- Dr.Michael Ekstrand - Assistant Professor, Computer Science Department, Boise State University
